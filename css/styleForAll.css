@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    margin: 0px;
+}
+
+header {
+    background-color: coral;
+}
+
+body {
+    background-color: crimson;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    a {
+        padding: 10px;
+        color: antiquewhite;
+    }
+}
